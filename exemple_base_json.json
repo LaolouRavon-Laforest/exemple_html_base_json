@@ -1,13 +1,14 @@
-[
-    {
-      "name": "coffre fort",
-      "description": "création d'un petit coffre fort imprimé en 3D ainsi que d'une carte arduino",
-      "image": "https://scape.enepe.fr/local/cache-vignettes/L240xH181/breveon232-becc7.jpg?1687891677"
-    },
-    {
-      "name": "Compteur de personne",
-      "description": "appareil qui compte le nombre de personnes qui entre et sortent d'une pièce",
-      "image": "https://mataucarre.fr/wp-content/uploads/2017/04/compteur_hc_rs04_arduino-768x439.png"
-    }
-  ]
-  
+{
+    "project": [
+        {
+            "name": "coffre fort",
+            "description": "création d'un petit coffre fort imprimé en 3D ainsi que d'une carte arduino",
+            "image": "https://scape.enepe.fr/local/cache-vignettes/L240xH181/breveon232-becc7.jpg?1687891677"
+        },
+        {
+            "name": "Compteur de personne",
+            "description": "appareil qui compte le nombre de personnes qui entre et sortent d'une pièce",
+            "image": "https://mataucarre.fr/wp-content/uploads/2017/04/compteur_hc_rs04_arduino-768x439.png"
+        }
+    ]
+}
